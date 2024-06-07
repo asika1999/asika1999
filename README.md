@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @asika1999
-- 👀 I like azusa
+- 👀 I like paly games
 - 🌱 I’m currently learning React
 - 我的第一个私人仓库，记录我的成长
